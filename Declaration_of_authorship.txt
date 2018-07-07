@@ -1,0 +1,26 @@
+Declaration
+-----------
+
+I, George Panitsas (N0687345), hereby declare that I am the sole author of the submitted program code and associated report, apart from the code referenced below.
+
+I am aware of the University's rules on plagiarism and collusion, and I understand that, if I am found to have broken these rules, it will be treated as Academic Misconduct and dealt with accordingly.
+
+I understand that I must submit this coursework by the time and date of the deadline.
+
+I understand that it is entirely my responsibility to ensure that I submit my full and complete coursework, and that any missing elements submitted after the deadline will be disregarded.
+
+I understand that the above rules apply even in the eventuality of computer or other information-technology failures.
+
+
+References
+----------
+
+I have used/adapted the following pieces of code from the following sources:
+
+In file Game.cpp:
+  Timing loop from LazyFoo tutorials
+  http://lazyfoo.net/SDL_tutorials/lesson01/index2.php
+
+In file Hiscore.cpp:
+  Quicksort from G. Samaras
+  http://gsamaras.wordpress.com/code/quicksort-c/
